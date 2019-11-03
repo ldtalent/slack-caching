@@ -1,0 +1,3 @@
+include README.md CHANGELOG.md MIT-LICENSE
+recursive-include slack_cache *.py
+recursive-include tests *.py

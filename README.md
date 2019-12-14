@@ -1,6 +1,6 @@
-# slack
+# slack-caching
 
-A brief description of what this package does.
+
 
 # Installation
 
